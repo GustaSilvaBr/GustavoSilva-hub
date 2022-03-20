@@ -1,5 +1,5 @@
 ## Olá!!! Eu sou o Gustavo Silva!
-- 🔭 Trabalho com Java, Arduino e front-end 
+- 🔭 Trabalho com Java, Arduino, Front-end(HTML5, CSS3, JS, TS) e Back-end(Nodejs) 
 - 🌱 Estudando Reactjs e Typescript
  <div>
   <a href="https://github.com/GustavoSilva-hub">
